@@ -1,0 +1,8 @@
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Potencije\bin\Debug\Potencije.exe.config
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Potencije\bin\Debug\Potencije.exe
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Potencije\bin\Debug\Potencije.pdb
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Potencije\obj\Debug\Potencije.csproj.AssemblyReference.cache
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Potencije\obj\Debug\Potencije.csproj.SuggestedBindingRedirects.cache
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Potencije\obj\Debug\Potencije.csproj.CoreCompileInputs.cache
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Potencije\obj\Debug\Potencije.exe
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Potencije\obj\Debug\Potencije.pdb

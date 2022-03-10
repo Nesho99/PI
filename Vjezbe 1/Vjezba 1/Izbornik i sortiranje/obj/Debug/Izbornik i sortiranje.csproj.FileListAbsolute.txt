@@ -1,0 +1,8 @@
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Izbornik i sortiranje\bin\Debug\Izbornik i sortiranje.exe.config
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Izbornik i sortiranje\bin\Debug\Izbornik i sortiranje.exe
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Izbornik i sortiranje\bin\Debug\Izbornik i sortiranje.pdb
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Izbornik i sortiranje\obj\Debug\Izbornik i sortiranje.csproj.AssemblyReference.cache
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Izbornik i sortiranje\obj\Debug\Izbornik i sortiranje.csproj.SuggestedBindingRedirects.cache
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Izbornik i sortiranje\obj\Debug\Izbornik i sortiranje.csproj.CoreCompileInputs.cache
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Izbornik i sortiranje\obj\Debug\Izbornik i sortiranje.exe
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Izbornik i sortiranje\obj\Debug\Izbornik i sortiranje.pdb

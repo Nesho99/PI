@@ -1,0 +1,8 @@
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Novcana naknada\bin\Debug\Novcana naknada.exe.config
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Novcana naknada\bin\Debug\Novcana naknada.exe
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Novcana naknada\bin\Debug\Novcana naknada.pdb
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Novcana naknada\obj\Debug\Novcana naknada.csproj.AssemblyReference.cache
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Novcana naknada\obj\Debug\Novcana naknada.csproj.SuggestedBindingRedirects.cache
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Novcana naknada\obj\Debug\Novcana naknada.csproj.CoreCompileInputs.cache
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Novcana naknada\obj\Debug\Novcana naknada.exe
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Novcana naknada\obj\Debug\Novcana naknada.pdb

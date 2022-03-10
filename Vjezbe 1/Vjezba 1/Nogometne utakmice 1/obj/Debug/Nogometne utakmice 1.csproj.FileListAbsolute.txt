@@ -1,0 +1,7 @@
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Nogometne utakmice 1\bin\Debug\Nogometne utakmice 1.exe.config
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Nogometne utakmice 1\bin\Debug\Nogometne utakmice 1.exe
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Nogometne utakmice 1\bin\Debug\Nogometne utakmice 1.pdb
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Nogometne utakmice 1\obj\Debug\Nogometne utakmice 1.csproj.SuggestedBindingRedirects.cache
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Nogometne utakmice 1\obj\Debug\Nogometne utakmice 1.csproj.CoreCompileInputs.cache
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Nogometne utakmice 1\obj\Debug\Nogometne utakmice 1.exe
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Nogometne utakmice 1\obj\Debug\Nogometne utakmice 1.pdb

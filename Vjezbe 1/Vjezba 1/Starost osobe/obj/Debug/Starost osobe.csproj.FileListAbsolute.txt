@@ -1,0 +1,7 @@
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Starost osobe\bin\Debug\Starost osobe.exe.config
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Starost osobe\bin\Debug\Starost osobe.exe
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Starost osobe\bin\Debug\Starost osobe.pdb
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Starost osobe\obj\Debug\Starost osobe.csproj.SuggestedBindingRedirects.cache
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Starost osobe\obj\Debug\Starost osobe.csproj.CoreCompileInputs.cache
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Starost osobe\obj\Debug\Starost osobe.exe
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Starost osobe\obj\Debug\Starost osobe.pdb

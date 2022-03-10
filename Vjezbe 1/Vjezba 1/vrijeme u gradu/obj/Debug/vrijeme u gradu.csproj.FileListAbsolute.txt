@@ -1,0 +1,8 @@
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\vrijeme u gradu\bin\Debug\vrijeme u gradu.exe.config
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\vrijeme u gradu\bin\Debug\vrijeme u gradu.exe
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\vrijeme u gradu\bin\Debug\vrijeme u gradu.pdb
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\vrijeme u gradu\obj\Debug\vrijeme u gradu.csproj.AssemblyReference.cache
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\vrijeme u gradu\obj\Debug\vrijeme u gradu.csproj.SuggestedBindingRedirects.cache
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\vrijeme u gradu\obj\Debug\vrijeme u gradu.csproj.CoreCompileInputs.cache
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\vrijeme u gradu\obj\Debug\vrijeme u gradu.exe
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\vrijeme u gradu\obj\Debug\vrijeme u gradu.pdb

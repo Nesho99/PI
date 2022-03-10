@@ -1,0 +1,8 @@
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Popis ii posudba knjiga\obj\Debug\Popis ii posudba knjiga.csproj.AssemblyReference.cache
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Popis ii posudba knjiga\obj\Debug\Popis ii posudba knjiga.csproj.SuggestedBindingRedirects.cache
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Popis ii posudba knjiga\obj\Debug\Popis ii posudba knjiga.csproj.CoreCompileInputs.cache
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Popis ii posudba knjiga\bin\Debug\Popis ii posudba knjiga.exe.config
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Popis ii posudba knjiga\bin\Debug\Popis ii posudba knjiga.exe
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Popis ii posudba knjiga\bin\Debug\Popis ii posudba knjiga.pdb
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Popis ii posudba knjiga\obj\Debug\Popis ii posudba knjiga.exe
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Popis ii posudba knjiga\obj\Debug\Popis ii posudba knjiga.pdb

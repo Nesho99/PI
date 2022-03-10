@@ -1,0 +1,8 @@
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Temperatura zraka 2\bin\Debug\Temperatura zraka 2.exe.config
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Temperatura zraka 2\bin\Debug\Temperatura zraka 2.exe
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Temperatura zraka 2\bin\Debug\Temperatura zraka 2.pdb
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Temperatura zraka 2\obj\Debug\Temperatura zraka 2.csproj.AssemblyReference.cache
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Temperatura zraka 2\obj\Debug\Temperatura zraka 2.csproj.SuggestedBindingRedirects.cache
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Temperatura zraka 2\obj\Debug\Temperatura zraka 2.csproj.CoreCompileInputs.cache
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Temperatura zraka 2\obj\Debug\Temperatura zraka 2.exe
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Temperatura zraka 2\obj\Debug\Temperatura zraka 2.pdb

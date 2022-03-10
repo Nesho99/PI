@@ -1,0 +1,15 @@
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Brojevi 2\bin\Debug\net6.0\Brojevi 2.exe
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Brojevi 2\bin\Debug\net6.0\Brojevi 2.deps.json
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Brojevi 2\bin\Debug\net6.0\Brojevi 2.runtimeconfig.json
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Brojevi 2\bin\Debug\net6.0\Brojevi 2.dll
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Brojevi 2\bin\Debug\net6.0\ref\Brojevi 2.dll
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Brojevi 2\bin\Debug\net6.0\Brojevi 2.pdb
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Brojevi 2\obj\Debug\net6.0\Brojevi 2.csproj.AssemblyReference.cache
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Brojevi 2\obj\Debug\net6.0\Brojevi 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Brojevi 2\obj\Debug\net6.0\Brojevi 2.AssemblyInfoInputs.cache
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Brojevi 2\obj\Debug\net6.0\Brojevi 2.AssemblyInfo.cs
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Brojevi 2\obj\Debug\net6.0\Brojevi 2.csproj.CoreCompileInputs.cache
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Brojevi 2\obj\Debug\net6.0\Brojevi 2.dll
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Brojevi 2\obj\Debug\net6.0\ref\Brojevi 2.dll
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Brojevi 2\obj\Debug\net6.0\Brojevi 2.pdb
+D:\Faks 6 sem\PI\Vjezbe\Vjezbe 1\Vjezba 1\Brojevi 2\obj\Debug\net6.0\Brojevi 2.genruntimeconfig.cache
